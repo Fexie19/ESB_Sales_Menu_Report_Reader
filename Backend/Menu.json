@@ -1,0 +1,112 @@
+{
+    "CE" : [
+
+        "Classic Milk Tea",
+        "Iced Chocolate",
+        "New Matcha Latte",
+   
+        "Es Kopi Calf Premium",
+        "Es Kopi Calf Regular",
+        "Premium Gula Jawa",
+        "Premium Gula Kelapa",
+        "Regular Gula Jawa",
+        "Regular Gula Kelapa",
+   
+        "Premium Oat Milk",
+   
+        "Butterscotch Macchiato",
+        "Caramel Macchiato",
+   
+        "BUNDLING PROMO GOFOOD 3 ES KOPI CALF PREMIUM",
+        "Bundling 3 Es Kopi Calf Premium",
+        "Bundling Es Kopi Calf Premium  + Classic Milk Tea",
+        "( BEST DEALS ) Es Kopi Calf Regular",
+        "Bundling Chocolate + Es Kopi Calf Premium",
+        "Bundling Berry Shot + Chocolate"
+    
+    ],
+
+
+    "CF" : [
+
+        "Magic Cheese Cream",
+        "Berry Shot",
+        "Fusion Black",
+        "Cold Brew Peach",
+        "Calf Premium Float",
+        "Bundling Fusion Black + Berry Shoot",
+        "Bundling Berry Shot + Chocolate"
+
+    ],
+
+
+    "B1LT" : [
+
+        "BUNDLING PROMO GOFOOD 2 LITER PREMIUM",
+        
+        "Kopi Calf Premium 1LT",
+        "Kopi Calf Premium 1Lt",
+        "Kopi Calf Premium 1000gr",
+        "Kopi Calf Premium 1000gram",
+
+        "Kopi Calf Regular 1LT",
+        "Kopi Calf Regular 1Lt",
+        "Kopi Calf Regular 1000gr",
+        "Kopi Calf Regular 1000gram",
+
+        "Premium Oat Milk 1LT",
+        "Premium Oat Milk 1Lt",
+        "Premium Oat Milk 1000gram",
+
+
+        "Regular Gula Jawa 1LT",
+        "Regular Gula Jawa 1Lt",
+        "Regulad Gula Jawa 1000gram",
+
+        "Regular Gula Kelapa 1LT",
+        "Regular Gula Kelapa 1Lt",
+        "Regular Gula Kelapa 1000gram",
+
+        "Premium Gula Jawa 1LT",
+        "Premium Gula Jawa 1Lt",
+        "Premium Gula Jawa 1000gram",
+
+        "Premium Gula Kelapa 1LT",
+        "Premium Gula Kelapa 1Lt",
+        "Premium Gula Kelapa 1000gram"
+        
+    ],
+
+
+    "K310" : [
+        
+        "Smooth Strawberry Sunkist",
+        "Smooth Caramel Butterscotch",
+        "Smooth Pistachio",
+        "Calf Premium Can",
+        "Premium Gula Jawa ( Can )",
+        "Premium Gula Kelapa ( Can )",
+        "Premium Oat Milk Can"
+
+    ],
+
+
+    "CH" : [
+        "Paper Cup"
+    ],
+
+
+    "DSM" : [
+        "Dimsum Mentai",
+        "Dimsum"
+    ],
+
+
+    "RT" : [
+        "Roti Pandan Coklat",
+        "Roti Pandan Coklat Keju",
+        "Roti Pandan Coklat Keju Ice Cream"
+    ]
+
+
+}
